@@ -1,1 +1,1 @@
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=genothomas&show_icons=true&include_all_commits=true&theme=gruvbox)](https://github-stats-extended.vercel.app/api?username=genothomas&show_icons=true&include_all_commits=true&theme=gruvbox)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=genothomas&show_icons=true&include_all_commits=true&theme=nord)](https://github-stats-extended.vercel.app/api?username=genothomas&show_icons=true&include_all_commits=true&theme=nord)
